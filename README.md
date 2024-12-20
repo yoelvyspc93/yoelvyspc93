@@ -1,4 +1,4 @@
-![Yoelvys](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/54f226495bd772a1f6cc94666ee284cb9b2ffdd2/images/Poster.svg)
+![Yoelvys](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/54f226495bd772a1f6cc94666ee284cb9b2ffdd2/images/yoelvys.svg)
 <!--
 **yoelvyspc93/yoelvyspc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
