@@ -1,4 +1,4 @@
-![Yoelvys Light](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/492c4e834225c3ed80531f20e96f2d8c0c47ae47/images/header-light.svg#gh-light-mode-only)![Yoelvys Dark](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/492c4e834225c3ed80531f20e96f2d8c0c47ae47/images/header-dark.svg#gh-dark-mode-only)
+![Yoelvys Light](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/04d16c11ad428950be7c7e84a2700af15ef9bede/images/header-light.svg#gh-light-mode-only)![Yoelvys Dark](https://raw.githubusercontent.com/yoelvyspc93/yoelvyspc93/04d16c11ad428950be7c7e84a2700af15ef9bede/images/header-dark.svg#gh-dark-mode-only)
 ### About Me
 
 Computer Engineer with over 6 years of experience in the development and optimization of web applications, specializing in frontend technologies. I have worked on complex projects integrating modern frameworks such as React and Next.js, focusing on creating intuitive and efficient interfaces. I possess solid knowledge in SEO and web performance. Passionate about technological innovation and problem-solving, always seeking to improve user experience and development efficiency.
